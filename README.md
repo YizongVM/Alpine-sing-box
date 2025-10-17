@@ -28,13 +28,13 @@
 ### Debian/Ubuntu 和 RHEL/Fedora 系统
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/imengying/sing-box/refs/heads/main/sing-box.sh | bash
+curl -fsSL https://raw.githubusercontent.com/YizongVM/Alpine-sing-box/refs/heads/main/sing-box.sh | bash
 ```
 
 ### Alpine 系统
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/imengying/sing-box/refs/heads/main/sing-box-alpine.sh | bash
+curl -fsSL https://raw.githubusercontent.com/YizongVM/Alpine-sing-box/refs/heads/main/sing-box-alpine.sh | bash
 ```
 
 ---
@@ -44,7 +44,7 @@ curl -fsSL https://raw.githubusercontent.com/imengying/sing-box/refs/heads/main/
 ### 自动更新到最新版本
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/imengying/sing-box/refs/heads/main/update.sh | bash
+curl -fsSL https://raw.githubusercontent.com/YizongVM/Alpine-sing-box/refs/heads/main/update.sh | bash
 ```
 
 ### 更新特性
